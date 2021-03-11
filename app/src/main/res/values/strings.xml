@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Images</string>
+    <string name="btnCambiar_Imagen_Text">Cambiar Imagen</string>
+    <string name="contentDescriptionFondo">Fondo</string>
+</resources>
